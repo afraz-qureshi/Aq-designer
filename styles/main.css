@@ -7777,7 +7777,7 @@ a.cbtn.pricing-btn {
 
 @media only screen and ( min-width: 992px ) {
     .stellarnav.light > ul > li.menu-item-has-children > a:after {
-        content: "+" !important;
+        /* content: "+" !important; */
         font-size: 16px;
         margin-left: 5px !important;
         border: 0;
